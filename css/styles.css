@@ -7,3 +7,7 @@ h3 {
     color: red;
     font-size: 20px;
 }
+
+body {
+    background-color: rgb(238, 228, 228);
+}
